@@ -1,4 +1,4 @@
-package com.paulopontes.wisdom.data.entity.repository;
+package com.paulopontes.wisdom.data.repository;
 
 import java.util.Optional;
 import java.util.UUID;
